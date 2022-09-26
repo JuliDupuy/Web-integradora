@@ -1,0 +1,59 @@
+.img-responsive{
+    font-size: 2em;
+}
+
+.navbar{
+    background-color: ;
+}
+
+.thumbnail {
+    position: relative;
+    Filter: brightness(40%);
+}
+
+.caption {
+    position: absolute;
+    top:35%;
+    margin-left: 50%;
+    margin-right: 5%;
+    font-size: 1.3vw;
+}
+
+.boton3 {
+    background-color: #96c93e;
+         
+}
+
+.btn-outline-secondary {
+    color: rgb(247, 235, 235);
+    border-color: rgb(241, 235, 235);
+    margin: 1;
+}
+
+.img-bsas {
+    width: 100%
+}
+
+.d-grid {
+    width: 50%;
+    background-size: green;
+}
+
+.separador {
+    display: flex;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    justify-content: space-evenly;
+}
+
+#enviar{
+    background-color: #96c93e;
+}
+
+.footer {
+    background-color: #1d506d;
+   
+}
+div.container-fluide{
+    overflow-x:hidden
+}
